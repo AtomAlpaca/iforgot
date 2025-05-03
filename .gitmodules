@@ -1,0 +1,3 @@
+[submodule "ollama-hpp"]
+	path = ollama-hpp
+	url = https://github.com/jmont-dev/ollama-hpp/
